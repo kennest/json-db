@@ -39,7 +39,17 @@
       "price":1000,
       "picture":"https://www.revolutionbeauty.com/Images/Models/Full/6693.Jpg",
       "category_id":5
+    },
+    {
+      "id": 6,
+      "title": "PFI Stack",
+      "description":"une lotion pour adulte",
+      "price":1000,
+      "picture":"https://hips.hearstapps.com/mac.h-cdn.co/assets/15/49/gallery13.jpg?crop=1.0xw:1xh;center,top&resize=480:*",
+      "category_id":1
     }
+
+
   ],
   "categories":[
       {
