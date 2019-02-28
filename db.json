@@ -1,0 +1,39 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "title": "PFI core",
+      "description":"Ceci est une creme epilatoire",
+      "price":1500,
+      "picture":"https://www.soriabel.be/files/17667/products/8810505/skincare_50g.jpg"
+    },
+    {
+      "id": 2,
+      "title": "PFI thumb",
+      "description":"Ceci est une pommade de soin intensif",
+      "price":2500,
+      "picture":"https://www.revolutionbeauty.com/Images/Models/Full/6699.jpg"
+    },
+    {
+      "id": 3,
+      "title": "PFI wise",
+      "description":"une poudre pour enfants",
+      "price":2000,
+      "picture":"https://www.revolutionbeauty.com/Images/Models/150/6692.jpg"
+    },
+    {
+      "id": 4,
+      "title": "PFI whole",
+      "description":"une poudre pour adulte",
+      "price":5500,
+      "picture":"https://www.revolutionbeauty.com/Images/Models/Full/6687.jpg"
+    },
+    {
+      "id": 5,
+      "title": "PFI Stack",
+      "description":"une lotion pour adulte",
+      "price":1000,
+      "picture":"https://www.revolutionbeauty.com/Images/Models/Full/6693.Jpg"
+    }
+  ]
+}
