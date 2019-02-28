@@ -42,11 +42,30 @@
     }
   ],
   "categories":[
-      {"name":"Pommades","image":"icon.png","id":1},
-      {"name":"Huiles","image":"icon.png","id":2},
-      {"name":"Maquillages","image":"icon.png","id":3},
-      {"name":"Vernies","image":"icon.png","id":4},
-      {"name":"Savons","image":"icon.png","id":5}
+      {
+		  "name":"Pommades",
+		  "image":"icon.png",
+		  "id":1
+	  },
+      {
+		  "name":"Huiles",
+		  "image":"icon.png",
+		  "id":2
+	  },
+      {
+		  "name":"Maquillages",
+		  "image":"icon.png",
+		  "id":3
+	  },
+      {
+		  "name":"Vernies",
+		  "image":"icon.png",
+		  "id":4},
+      {
+		  "name":"Savons",
+		  "image":"icon.png",
+		  "id":5
+	   }
       ]
 
 }
